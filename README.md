@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Samson Joseph Babalola
+- 👋 Hi, I’m Samson Babalola
 - 👀 I’m interested in Data Analytics and Science
 - 🌱 I’m currently learning Data Analytics with Dahel Techies
 - 💞️ I’m looking to collaborate on Start Up Founders, Tech Companies, Digital Firms, and Business Owners
